@@ -1,5 +1,8 @@
 ### Selçuk Aksoy's Portofolio 🧙
 
+## Selçıuk
+
+# Aksoy
 - 🔭 I’m currently working on improving my skills on C# Backend Applications.
 - 🌱 I’m currently learning C# Backend.
 - <!--
