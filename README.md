@@ -1,5 +1,6 @@
 # 🧙 Selcuk Aksoy
 **`Game and Simulation Developer (Unity/Unreal/BoardGame)`**
+
 I am a game enthusiast on various game types. A game developer with the knowledge of gamification, game based learning, their differences and as well as a deep understanding of game industry.
 Working as a game developer since 2020 Q4. Developed and shipped more than 22 games and a VR simulation. Working on my own RPG Survival game un UE4 as hobby.
 
