@@ -18,6 +18,13 @@ Working as a game developer since 2020 Q4. Developed and shipped more than 22 ga
 <img align="left" alt="Unity" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/unity/unity-original.svg" />
 <img align="left" alt="Unreal" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/unrealengine/unrealengine-original.svg" />
 <br />
+#
+
+### 📊 Stats
+
+![Selcuks's GitHub stats](https://github-readme-stats.vercel.app/api?username=Selconag&show_icons=true&theme=gruvbox)
+
+<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=Selconag&theme=gruvbox&border_radius=4.5) -->
 
 
 #
