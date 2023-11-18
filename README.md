@@ -6,6 +6,7 @@ Working as a game developer since 2020 Q4. Developed and shipped more than 22 ga
 
 ###  💻 Languages and Tools
 <img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
+<img align="left" alt="C#" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/csharp/csharp-original.svg" />
 <img align="left" alt="Unity" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/unity/unity-original.svg" />
 <img align="left" alt="Unreal" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/unrealengine/unrealengine-original.svg" />
 <br />
