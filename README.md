@@ -8,7 +8,7 @@ Working as a game developer since 2020 Q4. Developed and shipped more than 22 ga
       <a href="https://github.com/Selconag?tab=followers">
          <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/Selconag?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
       <a href="https://github.com/Selconag?tab=repositories&sort=stargazers">
-         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Selconag?color=23E1AD0E&style=for-the-badge&labelColor=488207&logo=star"/></a>
+         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Selconag?color=55960c&style=for-the-badge&labelColor=C79600&logo=star"/></a>
    </p>
 
 
