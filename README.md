@@ -11,6 +11,7 @@ Working as a game developer since 2020 Q4. Developed and shipped more than 22 ga
 [![Made with Unreal](https://img.shields.io/badge/Open%20To%20Work-Unreal%20Game%20Developer-57b9d3.svg?style=plastic&logo=unreal%20engine)](https://unreal.com)
 
 [![Made with C#](https://img.shields.io/badge/In%20Training-Backend%20Developer-00b911.svg?style=plastic&logo=csharp)](https://microsoft.com)
+[![Made with C#](https://img.shields.io/badge/In%20Training-Backend%20Developer-00b911.svg?style=plastic&logo=php)](https://php.com)
 
  <p align="left">
       <a href="https://github.com/Selconag?tab=followers">
