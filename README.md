@@ -91,11 +91,17 @@ Working as a game developer since 2020 Q4. Developed and shipped more than 22 ga
 <details>
  <summary><h3>👨‍💻 Selcuk's Game Industry Journey</h3></summary>
 I started my coding journey as a naive computer engineering student with a passion to learn everything I could about this programming world. In highschool I found a game making competition to join, that was the first time I ever coded something. After I started university I met with many talented people who have high passion to these interesting machines like me. While in university I founded a strategy gaming club to understand the various concepts of both physical and non-physical(video games) games. While on it me and my club members tried to follow industry standards to gain more knowledge. We held many events about playing and making games. In 2017 I met with Unity and started to use it. In 2018 I switched to Unreal and worked on unreal for 2 years. In 2020 I switched back to Unity due to industry interest of Turkiye and ever since I am using Unity for my personal and proffessional projects I am working on. With a friend of mine we are currently making a RPG Survival game in Unreal engine while I professionnally work with Unity.
- 
-You can check my active CV and portofolio in my website.
+
+
+You can check my active CV and portofolio in my website:
+
 https://selcukaksoy.com.tr
-For playable files or videos of projects I made.
+
+For playable files or videos of projects I made:
+
 https://drive.google.com/drive/u/1/folders/1g2BBhgySxqJYJ5grrg08MAJXS7WHW74p
+
 Itch.io page:
+
 https://selocanus-hopus.itch.io
 
