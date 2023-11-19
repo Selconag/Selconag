@@ -6,6 +6,10 @@ Working as a game developer since 2020 Q4. Developed and shipped more than 22 ga
 
 👨‍💻 I am currently in a C# Backend Bootcamp, trying to gain knowledge about backend profession and land a job on that. Open To Work :)
 
+[![Made with Unity](https://img.shields.io/badge/Open%20To%20Work-Unity%20Game%20Developer-57b9d3.svg?style=plastic&logo=unity)](https://unity3d.com)
+[![Made with Unity](https://img.shields.io/badge/Open%20To%20Work-Unity%20VR%20Simulation%20Developer-57b9d3.svg?style=plastic&logo=unity)](https://unity3d.com)
+[![Made with Unity](https://img.shields.io/badge/Open%20To%20Work-Unreal%20Game%20Developer-57b9d3.svg?style=plastic&logo=unreal%20engine)](https://unreal.com)
+
  <p align="left">
       <a href="https://github.com/Selconag?tab=followers">
          <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/Selconag?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
