@@ -16,7 +16,8 @@ Working as a game developer since 2020 Q4. Developed and shipped more than 22 ga
 [![Made with PHP](https://img.shields.io/badge/In%20Training-Backend%20Developer-0011b9.svg?style=plastic&logo=php)](https://php.com)
 
 Recently started to learn React due to Company Projects
-[![Made with React](https://img.shields.io/badge/In%20Training-Backend%20Developer-0011b9.svg?style=plastic&logo=react)](https://react.dev/)
+
+[![Made with React](https://img.shields.io/badge/In%20Training-Backend%20Developer-57b9d3.svg?style=plastic&logo=react)](https://react.dev/)
 
  <p align="left">
       <a href="https://github.com/Selconag?tab=followers">
