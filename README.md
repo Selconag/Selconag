@@ -15,6 +15,8 @@ Working as a game developer since 2020 Q4. Developed and shipped more than 22 ga
 [![Made with C#](https://img.shields.io/badge/Certified-Backend%20Developer-00b911.svg?style=plastic&logo=csharp)](https://microsoft.com)
 [![Made with .NET](https://img.shields.io/badge/Certified-Backend%20Developer-00b911.svg?style=plastic&logo=dotnet)](https://microsoft.com)
 
+Certificate of .NET Backend Bootcamp: https://certificates.techcareer.net/tr/verify/80011503885044
+
 [![Made with PHP](https://img.shields.io/badge/In%20Training-Backend%20Developer-0011b9.svg?style=plastic&logo=php)](https://php.com)
 
 Recently started to learn React due to Company Projects
