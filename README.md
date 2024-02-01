@@ -19,7 +19,7 @@ Certificate of .NET Backend Bootcamp: https://certificates.techcareer.net/tr/ver
 
 [![Made with PHP](https://img.shields.io/badge/In%20Training-Backend%20Developer-0011b9.svg?style=plastic&logo=php)](https://php.com)
 
-Recently started to learn React due to Company Projects(Forcefully please someone save me)
+Recently started to learn React and Python due to Company Projects(Forcefully please someone save me)
 
 [![Made with React](https://img.shields.io/badge/In%20Training-Frontend%20Developer-57b9d3.svg?style=plastic&logo=react)](https://react.dev/)
 [![Made with React](https://img.shields.io/badge/In%20Training-Backend%20Developer-11b911.svg?style=plastic&logo=python)](https://python.dev/)
