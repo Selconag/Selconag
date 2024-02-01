@@ -6,7 +6,13 @@ Working as a game developer since 2020 Q4. Developed and shipped more than 22 ga
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Selconag&label=Profile%20views&color=f7e466&style=flat" alt="Selconag" /> </p>
 
-👨‍💻 I am currently in a C# Backend Bootcamp, trying to gain knowledge about backend profession and land a job on that.
+👨‍💻 Recently completed my C# Backend Bootcamp, trying to gain knowledge about frontend profession too just because I am curious.
+
+I am fully open to make Mobile/PC/VR-AR-XR Games&Apps if you can pay. Due to a few last projects %20-30 of budget must be paid at start, sorry.
+Also anything listed below can be made too. Now we are in development of LMS App a language learning app that is focused on Russian-Turkish exchange.
+I am responsible of its Admin Panel & Database Management(In PHP, Yep I know).
+
+https://lms.gen.tr is the website. For its mobile app you can visit google play and search for LMS App(Not yet released will be in Q2 2024).
 
 [![Made with Unity](https://img.shields.io/badge/Open%20To%20Work-Unity%20Game%20Developer-57b9d3.svg?style=plastic&logo=unity)](https://unity3d.com)
 [![Made with Unity](https://img.shields.io/badge/Open%20To%20Work-Unity%20VR%20Simulation%20Developer-57b9d3.svg?style=plastic&logo=unity)](https://unity3d.com)
