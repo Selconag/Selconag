@@ -21,13 +21,14 @@ https://lms.gen.tr is the website. For its mobile app you can visit google play 
 [![Made with C#](https://img.shields.io/badge/Certified-Backend%20Developer-00b911.svg?style=plastic&logo=csharp)](https://microsoft.com)
 [![Made with .NET](https://img.shields.io/badge/Certified-Backend%20Developer-00b911.svg?style=plastic&logo=dotnet)](https://microsoft.com)
 
+[![Made with React](https://img.shields.io/badge/Open%20To%20Work-Frontend%20Developer-57b9d3.svg?style=plastic&logo=react)](https://react.dev/)
+
 Certificate of .NET Backend Bootcamp: https://certificates.techcareer.net/tr/verify/80011503885044
 
 [![Made with PHP](https://img.shields.io/badge/In%20Training-Backend%20Developer-0011b9.svg?style=plastic&logo=php)](https://php.com)
 
-Recently started to learn React and Python due to Company Projects(Forcefully please someone save me)
+Recently started to learn Python due to Company Projects(Forcefully please someone save me)
 
-[![Made with React](https://img.shields.io/badge/In%20Training-Frontend%20Developer-57b9d3.svg?style=plastic&logo=react)](https://react.dev/)
 [![Made with React](https://img.shields.io/badge/In%20Training-Backend%20Developer-11b911.svg?style=plastic&logo=python)](https://python.dev/)
 
  <p align="left">
